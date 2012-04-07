@@ -1,0 +1,36 @@
+﻿@font-face
+{
+	font-family: "NewCircle";
+	src: url('fonts/New Cicle Fina.ttf');
+}
+
+@font-face
+{
+	font-family: "NewCircleSemiBold";
+	src: url('fonts/New Cicle Semi.ttf');
+}
+
+@font-face
+{
+	font-family: "NewCircleBold";
+	src: url('fonts/New Circle Fina');
+	font-weight: bold;
+}
+
+@font-face
+{
+	font-family: "NewCircleItalic";
+	src: url('fonts/New Circle Fina Italic');
+}
+
+@font-face
+{
+	font-family: "NewCircleGordita";
+	src: url('fonts/New Cicle Gordita.ttf');
+}
+
+@font-face
+{
+	font-family: "NewCircleGorditaItalic";
+	src: url('fonts/New Cicle Gordita Italic.ttf');
+}
