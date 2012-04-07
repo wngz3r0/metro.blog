@@ -4,9 +4,8 @@
 		<link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
 	</head>
 	<body>
-		<p style="font-family:NewCircle">Regular</p>
-		<p style="font-family:NewCircleSemiBold">SemiBold</p>
-		<p style="font-family:NewCircleBold">Bold</p>
-		<p style="font-family:NewCircleGordita">Gordita</p>
-		<p style="font-family:NewCircleGorditaItalic">GorditaItalic</p>
+		<h1 style="font-family:NewCicleFina">Regular</p>
+		<h1 style="font-family:NewCicleSemi">SemiBold</p>
+		<h1 style="font-family:NewCicleGordita">Gordita</p>
+		<h1 style="font-family:NewCicleGorditaItalic">GorditaItalic</p>
 	</body>

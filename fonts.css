@@ -1,36 +1,71 @@
-﻿@font-face
-{
-	font-family: "NewCircle";
-	src: url('fonts/New Cicle Fina.ttf');
+﻿@font-face {
+    font-family: 'NewCicleGorditaItalic';
+    src: url('fonts/new_cicle_gordita_italic-webfont.eot');
+    src: url('fonts/new_cicle_gordita_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/new_cicle_gordita_italic-webfont.woff') format('woff'),
+         url('fonts/new_cicle_gordita_italic-webfont.ttf') format('truetype'),
+         url('fonts/new_cicle_gordita_italic-webfont.svg#NewCicleGorditaItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
-@font-face
-{
-	font-family: "NewCircleSemiBold";
-	src: url('fonts/New Cicle Semi.ttf');
+@font-face {
+    font-family: 'NewCicleGordita';
+    src: url('fonts/new_cicle_gordita-webfont.eot');
+    src: url('fonts/new_cicle_gordita-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/new_cicle_gordita-webfont.woff') format('woff'),
+         url('fonts/new_cicle_gordita-webfont.ttf') format('truetype'),
+         url('fonts/new_cicle_gordita-webfont.svg#NewCicleGordita') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
-@font-face
-{
-	font-family: "NewCircleBold";
-	src: url('fonts/New Circle Fina');
-	font-weight: bold;
+@font-face {
+    font-family: 'NewCicleSemiItalic';
+    src: url('fonts/new_cicle_semi_italic-webfont.eot');
+    src: url('fonts/new_cicle_semi_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/new_cicle_semi_italic-webfont.woff') format('woff'),
+         url('fonts/new_cicle_semi_italic-webfont.ttf') format('truetype'),
+         url('fonts/new_cicle_semi_italic-webfont.svg#NewCicleSemiItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
-@font-face
-{
-	font-family: "NewCircleItalic";
-	src: url('fonts/New Circle Fina Italic');
+@font-face {
+    font-family: 'NewCicleFinaItalic';
+    src: url('fonts/new_cicle_fina_italic-webfont.eot');
+    src: url('fonts/new_cicle_fina_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/new_cicle_fina_italic-webfont.woff') format('woff'),
+         url('fonts/new_cicle_fina_italic-webfont.ttf') format('truetype'),
+         url('fonts/new_cicle_fina_italic-webfont.svg#NewCicleFinaItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
-@font-face
-{
-	font-family: "NewCircleGordita";
-	src: url('fonts/New Cicle Gordita.ttf');
+@font-face {
+    font-family: 'NewCicleSemi';
+    src: url('fonts/new_cicle_semi-webfont.eot');
+    src: url('fonts/new_cicle_semi-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/new_cicle_semi-webfont.woff') format('woff'),
+         url('fonts/new_cicle_semi-webfont.ttf') format('truetype'),
+         url('fonts/new_cicle_semi-webfont.svg#NewCicleSemi') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
-@font-face
-{
-	font-family: "NewCircleGorditaItalic";
-	src: url('fonts/New Cicle Gordita Italic.ttf');
+@font-face {
+    font-family: 'NewCicleFina';
+    src: url('fonts/new_cicle_fina-webfont.eot');
+    src: url('fonts/new_cicle_fina-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/new_cicle_fina-webfont.woff') format('woff'),
+         url('fonts/new_cicle_fina-webfont.ttf') format('truetype'),
+         url('fonts/new_cicle_fina-webfont.svg#NewCicleFina') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
 }
