@@ -5,10 +5,11 @@
  */
 
 get_header(); ?>
+<script type="text/javascript" src="<?php print_template_file("mainpage.js")?>"></script>
+
 <?php if ( have_posts() ) : ?>
-	<?php while ( have_posts() ) : the_post(); ?>
-		hi
-		<?php get_template_part( 'content', get_post_format() ); ?>
-	<?php endwhile; ?>
+	<div id="canvas-div">
+		<canvas id="article-selector"></canvas>
+	</div>
 <?php endif; ?>
 <?php get_footer(); ?>
